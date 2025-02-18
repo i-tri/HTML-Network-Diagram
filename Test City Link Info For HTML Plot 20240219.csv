@@ -1,0 +1,174 @@
+Link ID,Site A,Latitude A,Longitude A,Site B,Latitude B,Longitude B,New Link Name,Medium,Link Capacity
+1001,Balclutha,-46.2333,169.75,Alexandra,-45.2492,169.3797,Balclutha to Alexandra,Fibre,1G
+1002,Helensville,-36.6797,174.4494,Auckland,-36.8406,174.74,Helensville to Auckland,OTN,1G
+1003,Maraetai,-36.881,175.042,Auckland,-36.8406,174.74,Maraetai to Auckland,Fibre,1G
+1004,Milton,-46.1167,169.9667,Balclutha,-46.2333,169.75,Milton to Balclutha,OTN,1G
+1005,Winton,-46.1431,168.3236,Balclutha,-46.2333,169.75,Winton to Balclutha,Fibre,1G
+1006,Brightwater,-41.379,173.114,Blenheim,-41.514,173.96,Brightwater to Blenheim,Fibre,1G
+1007,Wellington,-41.2889,174.7772,Blenheim,-41.514,173.96,Wellington to Blenheim,Fibre,1G
+1008,Woodend,-43.3167,172.6667,Blenheim,-41.514,173.96,Woodend to Blenheim,Fibre,1G
+1009,Auckland,-36.8406,174.74,Cambridge,-37.8833,175.4667,Auckland to Cambridge,Fibre,1G
+1010,Te Aroha,-37.5333,175.7167,Cambridge,-37.8833,175.4667,Te Aroha to Cambridge,Fibre,1G
+1011,Blenheim,-41.514,173.96,Christchurch,-43.531,172.6365,Blenheim to Christchurch,Fibre,1G
+1012,Leeston,-43.7667,172.3,Christchurch,-43.531,172.6365,Leeston to Christchurch,Fibre,1G
+1013,Lincoln,-43.65,172.4833,Christchurch,-43.531,172.6365,Lincoln to Christchurch,Fibre,1G
+1014,Rolleston,-43.5833,172.3833,Christchurch,-43.531,172.6365,Rolleston to Christchurch,Fibre,1G
+1015,Woodend,-43.3167,172.6667,Christchurch,-43.531,172.6365,Woodend to Christchurch,OTN,1G
+1016,Havelock North,-39.6667,176.8833,Clive,-39.5833,176.9167,Havelock North to Clive,OTN,1G
+1017,Alexandra,-45.2492,169.3797,Cromwell,-45.0459,169.1956,Alexandra to Cromwell,Fibre,1G
+1018,Tekapo,-44.12725,170.43189,Cromwell,-45.0459,169.1956,Tekapo to Cromwell,Fibre,1G
+1019,Queenstown,-45.00334,168.69603,Cromwell,-45.0459,169.1956,Queenstown to Cromwell,Fibre,1G
+1020,Christchurch,-43.531,172.6365,Darfield,-43.4833,172.1167,Christchurch to Darfield,OTN,1G
+1021,Leeston,-43.7667,172.3,Darfield,-43.4833,172.1167,Leeston to Darfield,Fibre,1G
+1022,Prebbleton,-43.5783,172.5133,Darfield,-43.4833,172.1167,Prebbleton to Darfield,Fibre,1G
+1023,West Melton,-43.5167,172.3667,Darfield,-43.4833,172.1167,West Melton to Darfield,Fibre,1G
+1024,Kerikeri,-35.2244,173.9514,Dargaville,-35.9333,173.8833,Kerikeri to Dargaville,Fibre,1G
+1025,Alexandra,-45.2492,169.3797,Dunedin,-45.8742,170.5036,Alexandra to Dunedin,Fibre,1G
+1026,Balclutha,-46.2333,169.75,Dunedin,-45.8742,170.5036,Balclutha to Dunedin,Fibre,1G
+1027,Christchurch,-43.531,172.6365,Dunedin,-45.8742,170.5036,Christchurch to Dunedin,Fibre,1G
+1028,Mosgiel,-45.875,170.3486,Dunedin,-45.8742,170.5036,Mosgiel to Dunedin,Fibre,1G
+1029,Timaru,-44.3931,171.2508,Dunedin,-45.8742,170.5036,Timaru to Dunedin,Fibre,1G
+1030,Palmerston North,-40.355,175.6117,Feilding,-40.2167,175.5667,Palmerston North to Feilding,Fibre,1G
+1031,Feilding,-40.2167,175.5667,Foxton,-40.4717,175.2858,Feilding to Foxton,Fibre,1G
+1032,Levin,-40.6219,175.2867,Foxton,-40.4717,175.2858,Levin to Foxton,Fibre,1G
+1033,Palmerston North,-40.355,175.6117,Foxton,-40.4717,175.2858,Palmerston North to Foxton,OTN,1G
+1034,Kawerau,-38.1,176.7,Gisborne,-38.6625,178.0178,Kawerau to Gisborne,Fibre,1G
+1035,Napier,-39.4903,176.9178,Gisborne,-38.6625,178.0178,Napier to Gisborne,Fibre,1G
+1036,Whakatane,-37.96,176.98,Gisborne,-38.6625,178.0178,Whakatane to Gisborne,Fibre,1G
+1037,Springs Junction,-43.33703,172.17788,Greymouth,-42.45,171.2075,Springs Junction to Greymouth,Fibre,1G
+1038,Auckland,-36.8406,174.74,Hamilton,-37.7833,175.2833,Auckland to Hamilton,Fibre,1G
+1039,Cambridge,-37.8833,175.4667,Hamilton,-37.7833,175.2833,Cambridge to Hamilton,Fibre,1G
+1040,Kihikihi,-38.0333,175.35,Hamilton,-37.7833,175.2833,Kihikihi to Hamilton,Fibre,1G
+1041,Matamata,-37.8167,175.7667,Hamilton,-37.7833,175.2833,Matamata to Hamilton,Fibre,1G
+1042,New Plymouth,-39.0578,174.0742,Hamilton,-37.7833,175.2833,New Plymouth to Hamilton,Fibre,1G
+1043,Ngaruawahia,-37.6667,175.15,Hamilton,-37.7833,175.2833,Ngaruawahia to Hamilton,Fibre,1G
+1044,Pokeno,-37.2333,175.0167,Hamilton,-37.7833,175.2833,Pokeno to Hamilton,Fibre,1G
+1045,Raglan,-37.8,174.8833,Hamilton,-37.7833,175.2833,Raglan to Hamilton,Fibre,1G
+1046,Rotorua,-38.1378,176.2514,Hamilton,-37.7833,175.2833,Rotorua to Hamilton,Fibre,1G
+1047,Taupo,-38.6875,176.0694,Hamilton,-37.7833,175.2833,Taupo to Hamilton,Fibre,1G
+1048,Tauwhare,-37.7698,175.4592,Hamilton,-37.7833,175.2833,Tauwhare to Hamilton,Fibre,1G
+1049,Te Awamutu,-38.0167,175.3167,Hamilton,-37.7833,175.2833,Te Awamutu to Hamilton,Fibre,1G
+1050,Waihi Beach,-37.4,175.9333,Hamilton,-37.7833,175.2833,Waihi Beach to Hamilton,Fibre,1G
+1051,Northcote,-36.8019,174.7494,Helensville,-36.6797,174.4494,Northcote to Helensville,Fibre,1G
+1052,Pokeno,-37.2333,175.0167,Helensville,-36.6797,174.4494,Pokeno to Helensville,Fibre,1G
+1053,Tuakau,-37.2667,174.95,Helensville,-36.6797,174.4494,Tuakau to Helensville,Fibre,1G
+1054,Greymouth,-42.45,171.2075,Hokitika,-42.7156,170.9681,Greymouth to Hokitika,Fibre,1G
+1055,Wanaka,-44.7,169.15,Hokitika,-42.7156,170.9681,Wanaka to Hokitika,Fibre,1G
+1056,Alexandra,-45.2492,169.3797,Invercargill,-46.4131,168.3475,Alexandra to Invercargill,Fibre,1G
+1057,Balclutha,-46.2333,169.75,Invercargill,-46.4131,168.3475,Balclutha to Invercargill,Fibre,1G
+1058,Dunedin,-45.8742,170.5036,Invercargill,-46.4131,168.3475,Dunedin to Invercargill,Fibre,1G
+1059,Waitangi,-35.24568,174.05353,Kaikohe,-35.4075,173.7997,Waitangi to Kaikohe,Fibre,1G
+1060,Kaikohe,-35.4075,173.7997,Kerikeri,-35.2244,173.9514,Kaikohe to Kerikeri,Fibre,1G
+1061,Kaitaia,-35.1125,173.2628,Kerikeri,-35.2244,173.9514,Kaitaia to Kerikeri,Fibre,1G
+1062,Waitangi,-35.24568,174.05353,Kerikeri,-35.2244,173.9514,Waitangi to Kerikeri,Fibre,1G
+1063,Prebbleton,-43.5783,172.5133,Leeston,-43.7667,172.3,Prebbleton to Leeston,Fibre,1G
+1064,Timaru,-44.3931,171.2508,Leeston,-43.7667,172.3,Timaru to Leeston,Fibre,1G
+1065,Paraparaumu,-40.9144,175.0056,Levin,-40.6219,175.2867,Paraparaumu to Levin,Fibre,1G
+1066,Oxford,-43.3128,172.1906,Lincoln,-43.65,172.4833,Oxford to Lincoln,Fibre,1G
+1067,Rolleston,-43.5833,172.3833,Lincoln,-43.65,172.4833,Rolleston to Lincoln,Fibre,1G
+1068,Foxton,-40.4717,175.2858,Lower Hutt,-41.2167,174.9167,Foxton to Lower Hutt,Fibre,1G
+1069,Porirua,-41.1333,174.85,Lower Hutt,-41.2167,174.9167,Porirua to Lower Hutt,Fibre,1G
+1070,Upper Hutt,-41.1333,175.05,Lower Hutt,-41.2167,174.9167,Upper Hutt to Lower Hutt,Fibre,1G
+1071,Wellington,-41.2889,174.7772,Lower Hutt,-41.2167,174.9167,Wellington to Lower Hutt,OTN,1G
+1072,Auckland,-36.8406,174.74,Manukau City,-37,174.885,Auckland to Manukau City,Fibre,1G
+1073,Hamilton,-37.7833,175.2833,Manukau City,-37,174.885,Hamilton to Manukau City,Fibre,1G
+1074,Maraetai,-36.881,175.042,Manukau City,-37,174.885,Maraetai to Manukau City,Fibre,1G
+1075,Ngaruawahia,-37.6667,175.15,Manukau City,-37,174.885,Ngaruawahia to Manukau City,Fibre,1G
+1076,Thames,-37.1383,175.5375,Manukau City,-37,174.885,Thames to Manukau City,Fibre,1G
+1077,Tuakau,-37.2667,174.95,Maraetai,-36.881,175.042,Tuakau to Maraetai,Fibre,1G
+1078,Ashhurst,-40.3,175.75,Marton,-40.0692,175.3783,Ashhurst to Marton,Fibre,1G
+1079,Feilding,-40.2167,175.5667,Marton,-40.0692,175.3783,Feilding to Marton,Fibre,1G
+1080,New Plymouth,-39.0578,174.0742,Marton,-40.0692,175.3783,New Plymouth to Marton,Fibre,1G
+1081,Stratford,-39.3333,174.2833,Marton,-40.0692,175.3783,Stratford to Marton,Fibre,1G
+1082,Dunedin,-45.8742,170.5036,Milton,-46.1167,169.9667,Dunedin to Milton,Copper,1G
+1083,Mosgiel,-45.875,170.3486,Milton,-46.1167,169.9667,Mosgiel to Milton,Fibre,1G
+1084,Ashhurst,-40.3,175.75,Napier,-39.4903,176.9178,Ashhurst to Napier,Fibre,1G
+1085,Clive,-39.5833,176.9167,Napier,-39.4903,176.9178,Clive to Napier,Fibre,1G
+1086,Gisborne,-38.6625,178.0178,Napier,-39.4903,176.9178,Gisborne to Napier,Fibre,1G
+1087,Turangi,-38.9889,175.8083,Napier,-39.4903,176.9178,Turangi to Napier,Fibre,1G
+1088,Blenheim,-41.514,173.96,Nelson,-41.2708,173.2839,Blenheim to Nelson,Fibre,1G
+1089,Brightwater,-41.379,173.114,Nelson,-41.2708,173.2839,Brightwater to Nelson,Fibre,1G
+1090,Westport,-41.7581,171.6022,Nelson,-41.2708,173.2839,Westport to Nelson,Copper,1G
+1091,Stratford,-39.3333,174.2833,New Plymouth,-39.0578,174.0742,Stratford to New Plymouth,Fibre,1G
+1092,Waitara,-38.9958,174.2331,New Plymouth,-39.0578,174.0742,Waitara to New Plymouth,Fibre,1G
+1093,Auckland,-36.8406,174.74,Northcote,-36.8019,174.7494,Auckland to Northcote,Fibre,1G
+1094,Christchurch,-43.531,172.6365,Oxford,-43.3128,172.1906,Christchurch to Oxford,Fibre,1G
+1095,Darfield,-43.4833,172.1167,Oxford,-43.3128,172.1906,Darfield to Oxford,Fibre,1G
+1096,Prebbleton,-43.5783,172.5133,Oxford,-43.3128,172.1906,Prebbleton to Oxford,Fibre,1G
+1097,West Melton,-43.5167,172.3667,Oxford,-43.3128,172.1906,West Melton to Oxford,OTN,1G
+1098,Ashhurst,-40.3,175.75,Palmerston North,-40.355,175.6117,Ashhurst to Palmerston North,Fibre,1G
+1099,Clive,-39.5833,176.9167,Palmerston North,-40.355,175.6117,Clive to Palmerston North,Fibre,1G
+1100,Levin,-40.6219,175.2867,Palmerston North,-40.355,175.6117,Levin to Palmerston North,Fibre,1G
+1101,Marton,-40.0692,175.3783,Palmerston North,-40.355,175.6117,Marton to Palmerston North,Fibre,1G
+1102,Taupo,-38.6875,176.0694,Palmerston North,-40.355,175.6117,Taupo to Palmerston North,OTN,1G
+1103,Paraparaumu Beach,-40.8938,174.9794,Paraparaumu,-40.9144,175.0056,Paraparaumu Beach to Paraparaumu,Fibre,1G
+1104,Raumati Beach,-40.9187,174.9811,Paraparaumu,-40.9144,175.0056,Raumati Beach to Paraparaumu,Fibre,1G
+1105,Raumati Beach,-40.9187,174.9811,Paraparaumu Beach,-40.8938,174.9794,Raumati Beach to Paraparaumu Beach,Fibre,1G
+1106,Levin,-40.6219,175.2867,Porirua,-41.1333,174.85,Levin to Porirua,OTN,1G
+1107,Pahiatua,-40.4533,175.8408,Porirua,-41.1333,174.85,Pahiatua to Porirua,Fibre,1G
+1108,Upper Hutt,-41.1333,175.05,Porirua,-41.1333,174.85,Upper Hutt to Porirua,Fibre,1G
+1109,Waikanae,-40.875,175.0639,Porirua,-41.1333,174.85,Waikanae to Porirua,Fibre,1G
+1110,Wellington,-41.2889,174.7772,Porirua,-41.1333,174.85,Wellington to Porirua,Fibre,1G
+1111,Te Anau,-45.4167,167.7167,Queenstown,-45.00334,168.69603,Te Anau to Queenstown,Fibre,1G
+1112,Waikanae,-40.875,175.0639,Raumati Beach,-40.9187,174.9811,Waikanae to Raumati Beach,MW,1G
+1113,Nelson,-41.2708,173.2839,Richmond,-41.3333,173.1833,Nelson to Richmond,Fibre,1G
+1114,Wakefield,-41.4,173.05,Richmond,-41.3333,173.1833,Wakefield to Richmond,Fibre,1G
+1115,Christchurch,-43.531,172.6365,Rolleston,-43.5833,172.3833,Christchurch to Rolleston,Fibre,1G
+1116,Auckland,-36.8406,174.74,Rotorua,-38.1378,176.2514,Auckland to Rotorua,Fibre,1G
+1117,Gisborne,-38.6625,178.0178,Rotorua,-38.1378,176.2514,Gisborne to Rotorua,Fibre,1G
+1118,Matamata,-37.8167,175.7667,Rotorua,-38.1378,176.2514,Matamata to Rotorua,Fibre,1G
+1119,Tauwhare,-37.7698,175.4592,Rotorua,-38.1378,176.2514,Tauwhare to Rotorua,MW,1G
+1120,Te Awamutu,-38.0167,175.3167,Rotorua,-38.1378,176.2514,Te Awamutu to Rotorua,Fibre,1G
+1121,Tokoroa,-38.2167,175.8667,Rotorua,-38.1378,176.2514,Tokoroa to Rotorua,Fibre,1G
+1122,Ruakaka,-35.9084,174.4596,Snells Beach,-36.4222,174.7275,Ruakaka to Snells Beach,Fibre,1G
+1123,Cambridge,-37.8833,175.4667,Taupo,-38.6875,176.0694,Cambridge to Taupo,Fibre,1G
+1124,Clive,-39.5833,176.9167,Taupo,-38.6875,176.0694,Clive to Taupo,Fibre,1G
+1125,Napier,-39.4903,176.9178,Taupo,-38.6875,176.0694,Napier to Taupo,Fibre,1G
+1126,New Plymouth,-39.0578,174.0742,Taupo,-38.6875,176.0694,New Plymouth to Taupo,Fibre,1G
+1127,Te Awamutu,-38.0167,175.3167,Taupo,-38.6875,176.0694,Te Awamutu to Taupo,Fibre,1G
+1128,Tokoroa,-38.2167,175.8667,Taupo,-38.6875,176.0694,Tokoroa to Taupo,OTN,1G
+1129,Turangi,-38.9889,175.8083,Taupo,-38.6875,176.0694,Turangi to Taupo,Fibre,1G
+1130,Auckland,-36.8406,174.74,Tauranga,-37.6833,176.1667,Auckland to Tauranga,Fibre,1G
+1131,Cambridge,-37.8833,175.4667,Tauranga,-37.6833,176.1667,Cambridge to Tauranga,Fibre,1G
+1132,Hamilton,-37.7833,175.2833,Tauranga,-37.6833,176.1667,Hamilton to Tauranga,Fibre,1G
+1133,Kawerau,-38.1,176.7,Tauranga,-37.6833,176.1667,Kawerau to Tauranga,Fibre,1G
+1134,Mount Maunganui,-37.6598,176.2148,Tauranga,-37.6833,176.1667,Mount Maunganui to Tauranga,Fibre,1G
+1135,Te Puke,-37.7667,176.3167,Tauranga,-37.6833,176.1667,Te Puke to Tauranga,Copper,1G
+1136,Whakatane,-37.96,176.98,Tauranga,-37.6833,176.1667,Whakatane to Tauranga,Fibre,1G
+1137,Invercargill,-46.4131,168.3475,Te Anau,-45.4167,167.7167,Invercargill to Te Anau,Fibre,1G
+1138,Winton,-46.1431,168.3236,Te Anau,-45.4167,167.7167,Winton to Te Anau,Fibre,1G
+1139,Paeroa,-37.375,175.6667,Thames,-37.1383,175.5375,Paeroa to Thames,Fibre,1G
+1140,Te Aroha,-37.5333,175.7167,Thames,-37.1383,175.5375,Te Aroha to Thames,Fibre,1G
+1141,Waihi,-37.3833,175.8333,Thames,-37.1383,175.5375,Waihi to Thames,MW,1G
+1142,Whangamata,-37.2,175.8667,Thames,-37.1383,175.5375,Whangamata to Thames,Fibre,1G
+1143,Whitianga,-36.8333,175.7,Thames,-37.1383,175.5375,Whitianga to Thames,Fibre,1G
+1144,Christchurch,-43.531,172.6365,Timaru,-44.3931,171.2508,Christchurch to Timaru,Fibre,1G
+1145,Tekapo,-44.12725,170.43189,Timaru,-44.3931,171.2508,Tekapo to Timaru,Fibre,1G
+1146,Waiuku,-37.249,174.73,Tuakau,-37.2667,174.95,Waiuku to Tuakau,MW,1G
+1147,Mount Maunganui,-37.6598,176.2148,Waihi Beach,-37.4,175.9333,Mount Maunganui to Waihi Beach,Fibre,1G
+1148,Paeroa,-37.375,175.6667,Waihi Beach,-37.4,175.9333,Paeroa to Waihi Beach,Fibre,1G
+1149,Tauranga,-37.6833,176.1667,Waihi Beach,-37.4,175.9333,Tauranga to Waihi Beach,OTN,1G
+1150,Te Aroha,-37.5333,175.7167,Waihi Beach,-37.4,175.9333,Te Aroha to Waihi Beach,Fibre,1G
+1151,Thames,-37.1383,175.5375,Waihi Beach,-37.4,175.9333,Thames to Waihi Beach,Fibre,1G
+1152,Waihi,-37.3833,175.8333,Waihi Beach,-37.4,175.9333,Waihi to Waihi Beach,Fibre,1G
+1153,Whangamata,-37.2,175.8667,Waihi Beach,-37.4,175.9333,Whangamata to Waihi Beach,OTN,1G
+1154,Westport,-41.7581,171.6022,Wakefield,-41.4,173.05,Westport to Wakefield,OTN,1G
+1155,Cromwell,-45.0459,169.1956,Wanaka,-44.7,169.15,Cromwell to Wanaka,Fibre,1G
+1156,Te Anau,-45.4167,167.7167,Wanaka,-44.7,169.15,Te Anau to Wanaka,Fibre,1G
+1157,Queenstown,-45.00334,168.69603,Wanaka,-44.7,169.15,Queenstown to Wanaka,Fibre,1G
+1158,Helensville,-36.6797,174.4494,Warkworth,-36.4,174.6667,Helensville to Warkworth,Fibre,1G
+1159,Northcote,-36.8019,174.7494,Warkworth,-36.4,174.6667,Northcote to Warkworth,OTN,1G
+1160,Blenheim,-41.514,173.96,Wellington,-41.2889,174.7772,Blenheim to Wellington,Fibre,1G
+1161,Nelson,-41.2708,173.2839,Wellington,-41.2889,174.7772,Nelson to Wellington,Fibre,1G
+1162,Upper Hutt,-41.1333,175.05,Wellington,-41.2889,174.7772,Upper Hutt to Wellington,Fibre,1G
+1163,Brightwater,-41.379,173.114,Westport,-41.7581,171.6022,Brightwater to Westport,Fibre,1G
+1164,Greymouth,-42.45,171.2075,Westport,-41.7581,171.6022,Greymouth to Westport,Fibre,1G
+1165,Springs Junction,-43.33703,172.17788,Westport,-41.7581,171.6022,Springs Junction to Westport,Fibre,1G
+1166,Auckland,-36.8406,174.74,Whangarei,-35.725,174.3236,Auckland to Whangarei,MW,1G
+1167,Dargaville,-35.9333,173.8833,Whangarei,-35.725,174.3236,Dargaville to Whangarei,Fibre,1G
+1168,Kaikohe,-35.4075,173.7997,Whangarei,-35.725,174.3236,Kaikohe to Whangarei,Fibre,1G
+1169,Ruakaka,-35.9084,174.4596,Whangarei,-35.725,174.3236,Ruakaka to Whangarei,Fibre,1G
+1170,Snells Beach,-36.4222,174.7275,Whangarei,-35.725,174.3236,Snells Beach to Whangarei,Copper,1G
+1171,Warkworth,-36.4,174.6667,Whangarei,-35.725,174.3236,Warkworth to Whangarei,MW,1G
+1172,Springs Junction,-43.33703,172.17788,Woodend,-43.3167,172.6667,Springs Junction to Woodend,Fibre,1G
+1173,Nelson,-41.2708,173.2839,Porirua,-41.1333,174.85,Nelson to Porirua,Fibre,1G
